@@ -12,8 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-PavelBodle-black)](https://github.com/PavelBodle)
-Here are some ideas to get you started:
-
+[![GitHub](https://img.shields.io/badge/GitHub-Pavel--Bodle-black)](https://github.com/PavelBodle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavel--Bodle-blue)](https://www.linkedin.com/in/pavelbodle/)
 
 
