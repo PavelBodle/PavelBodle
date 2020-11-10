@@ -1,4 +1,5 @@
 # Hey, I'm Pavel Bodle 👋
+M.Tech, IIT Bombay
 
 <!--
 **PavelBodle/PavelBodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pavel%20Bodle-black)](https://github.com/PavelBodle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavel%20Bodle-blue)](https://www.linkedin.com/in/pavelbodle/)
+
 
 
