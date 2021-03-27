@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
 # Hey, I'm Pavel Bodle 👋
 M.Tech, IIT Bombay
 
@@ -18,3 +20,8 @@ M.Tech, IIT Bombay
 
 
 
+<p style="text-align:center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=PavelBodle&color=blueviolet">
+</a>
+<p>
