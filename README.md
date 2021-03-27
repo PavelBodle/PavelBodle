@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
 ## नमस्ते<i class="far fa-praying-hands"></i>, I'm Pavel Bodle 👋
-M.Tech, IIT Bombay
 
 <!--
 **PavelBodle/PavelBodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,11 @@ M.Tech, IIT Bombay
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - 🎓 I’m pursuing Master's from IIT Bombay.
+ - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier parameters retrieval algorithms development from SAR (Synthetic-aperture radar) Data.
+ - ⚡ Quote: I'll grow through my pain.
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pavel%20Bodle-black)](https://github.com/PavelBodle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavel%20Bodle-blue)](https://www.linkedin.com/in/pavelbodle/)
