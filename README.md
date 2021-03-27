@@ -15,7 +15,7 @@
 -->
 
  - 🎓 I’m pursuing Master's from IIT Bombay.
- - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier parameters retrieval algorithms development from SAR (Synthetic-aperture radar) Data.
+ - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier facies classification from SAR (Synthetic-aperture radar) Data using ML/DL.
  - ⚡ Quote: I'll grow through my pain.
 
 
