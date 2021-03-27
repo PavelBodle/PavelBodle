@@ -13,12 +13,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- - 🎓 I’m pursuing Master's from IIT Bombay.
- - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier facies classification from SAR (Synthetic-aperture radar) Data using ML/DL.
- - ⚡ Quote: I'll grow through my pain.
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-Pavel%20Bodle-black)](https://github.com/PavelBodle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavel%20Bodle-blue)](https://www.linkedin.com/in/pavelbodle/)
 
@@ -27,6 +21,12 @@
     <img src="https://komarev.com/ghpvc/?username=PavelBodle&color=blueviolet">
 </a>
 <p>
+
+ - 🎓 I’m pursuing Master's from IIT Bombay.
+ - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier facies classification from SAR (Synthetic-aperture radar) Data using ML/DL.
+ - ⚡ Quote: I'll grow through my pain.
+
+
 
 ## &#x1f4c8; GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PavelBodle&count_private=true&theme=tokyonight&showicons=true)]()
