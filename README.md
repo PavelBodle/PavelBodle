@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
-# Hey, I'm Pavel Bodle 👋
+# नमस्ते<i class="far fa-praying-hands"></i>, I'm Pavel Bodle 👋
 M.Tech, IIT Bombay
 
 <!--
