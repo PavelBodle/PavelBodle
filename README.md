@@ -32,12 +32,12 @@
 <!--
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PavelBodle&count_private=true&theme=tokyonight&showicons=true)]()
 -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelBodle&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavelBodle&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://www.linkedin.com/in/pavelbodle/)
   
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBodle&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBodle&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBodle&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=7&hide=Blade)](https://github.com/PavelBodle)
 
 <!--
 ## 🏆 GitHub Trophies
