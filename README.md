@@ -22,7 +22,7 @@
 </a>
 <p>
 
- - 🎓 M.Tech from IIT Bombay.
+ - 🎓 IIT Bombay.
  - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier facies classification from SAR (Synthetic-aperture radar) Data using ML/DL.
  - ⚡ Quote: I'll grow through my pain.
 
