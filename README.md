@@ -22,9 +22,10 @@
 </a>
 <p>
 
- - 🎓 IIT Bombay.
- - 🌱 Research Interest: Machine Learning, Deep Learning, Computer Vision, Snow & Glacier facies classification from SAR (Synthetic-aperture radar) Data using ML/DL.
- - ⚡ Quote: I'll grow through my pain.
+ - 👨‍💻 Data Scientist
+ - 🎓 IIT Bombay
+ - 🌱 Research Interest: Generative AI, LLMs, Machine Learning, Deep Learning, Computer Vision, and Geospatial Research.
+ - ⚡ Quote: I'll grow through my pain
 
 
 
