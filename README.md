@@ -2,20 +2,16 @@
 
 ## नमस्ते<i class="far fa-praying-hands"></i>, I'm Pavel Bodle 👋
 
-<!--
-**PavelBodle/PavelBodle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-[![GitHub](https://img.shields.io/badge/GitHub-Pavel%20Bodle-black)](https://github.com/PavelBodle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavel%20Bodle-blue)](https://www.linkedin.com/in/pavelbodle/)
-<!--
-<p <div align="center"> 
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=PavelBodle&color=blueviolet">
-</a>
-<p> -->
-![Profile Views](https://komarev.com/ghpvc/?username=PavelBodle&color=blue&style=flat-square)
-
+<p align="center">
+  <a href="https://github.com/PavelBodle">
+    <img src="https://img.shields.io/badge/GitHub-Pavel%20Bodle-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pavelbodle/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pavel%20Bodle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=PavelBodle&color=blueviolet&style=flat-square">
+</p>
 
 ## 👨‍💻 About Me 
 - 🔭 I’m currently working as a **Data Scientist**  
