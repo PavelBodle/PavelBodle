@@ -16,20 +16,35 @@
 <p> -->
 ![Profile Views](https://komarev.com/ghpvc/?username=PavelBodle&color=blue&style=flat-square)
 
+
+## 👨‍💻 About Me 
+- 🔭 I’m currently working as a **Data Scientist**  
+- 🏫 Graduated from **IIT Bombay**  
+- 📚 Passionate about **Generative AI, LLMs, Computer Vision & Geospatial AI**  
+- 🚀 Looking to collaborate on **ML Research & Open-Source AI Projects**
+<!--
  - 👨‍💻 Data Scientist
  - 🎓 IIT Bombay
  - 🌱 Research Interest: AI/ML Researcher | Data Scientist | Exploring the Intersection of Geospatial & AI
  - ⚡ Quote: I’ll grow through my pain
+   -->
 ## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 💻 Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+### ☁️ Cloud Platforms  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavelBodle&theme=dark&hide_border=true)](https://github.com/PavelBodle)
+### 🧠 AI & ML Libraries  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🏛️ Databases & Data Warehousing  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+[![Pavel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PavelBodle&theme=github)](https://github.com/PavelBodle)
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PavelBodle&theme=dark)](https://github.com/PavelBodle)
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PavelBodle&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
